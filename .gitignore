@@ -1,0 +1,28 @@
+# Ignore node_modules and build artifacts
+node_modules/
+frontend/node_modules/
+datasets/New folder/node_modules/
+
+# Ignore model weights and large files
+deployment_package/model_weights/
+*.safetensors
+*.pt
+*.pth
+
+# Ignore environment and system files
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.vscode/
+
+# Ignore OS files
+Thumbs.db
+.DS_Store
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+
+node_modules/

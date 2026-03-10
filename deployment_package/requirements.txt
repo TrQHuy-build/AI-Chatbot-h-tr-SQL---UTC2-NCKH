@@ -1,0 +1,16 @@
+langchain
+langchain-community
+langchain-huggingface
+langchain-core
+faiss-cpu
+fastapi
+uvicorn[standard]
+pandas
+torch
+transformers
+sentence-transformers
+datasets
+requests
+pydantic
+python-multipart
+accelerate
