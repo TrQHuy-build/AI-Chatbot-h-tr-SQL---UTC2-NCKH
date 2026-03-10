@@ -34,3 +34,7 @@ datasets/
 .env
 *.pt
 *.pth
+
+node_modules/
+node_modules_backup/
+datasets/
