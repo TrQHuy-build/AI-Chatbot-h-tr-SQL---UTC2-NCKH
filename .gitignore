@@ -26,3 +26,11 @@ Thumbs.db
 
 
 node_modules/
+
+
+node_modules/
+node_modules_backup/
+datasets/
+.env
+*.pt
+*.pth
